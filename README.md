@@ -5,7 +5,7 @@
 I’m a Python developer with a specific interest in data analytics.
 
 - 👨‍💻 I’m currently working as a Systems Analyst - I'm looking for a new role 🙋‍♂️
-- 🌱 I’m currently learning [Natural Language Toolkit](https://nltk.org)
+- 🌱 I’m currently learning [Natural Language Toolkit](http://nltk.org)
 - 💬 Ask me about data, automation, webscraping, my D&D group's homebrew Pokémon campaign and app
 - 📬 How to reach me: [My portfolio](https://davidwin.ch) or Twitter [@d_winch](https://twitter.com/d_winch)
 - 😄 Pronouns: he/him
