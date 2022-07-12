@@ -1,5 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/d-winch/d-winch/master/Dave%20Profile%20-%20500px.png" alt="Cuphead/early cartoon style image, using chromatic abberation, of David riding a hoverboard while holding a keyboard and a video game controller"/>
+<img align="right" src="https://raw.githubusercontent.com/d-winch/d-winch/master/Dave%20Profile%20-%20Dark%20Mode%20-%20500px.png" alt="Cuphead/early cartoon style image, using chromatic abberation, of David riding a hoverboard while holding a keyboard and a video game controller"/>
 
+Dave Profile - Dark Mode - 500px.png
 ### Hi there, I'm David 👋
 
 I’m a Python developer with a specific interest in data analytics.
